@@ -1,0 +1,35 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "This is a website for Ristorante Con Fusion",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beta-etm/GIT-TEST.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Betiel Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beta-etm/GIT-TEST.git/issues"
+  },
+  "homepage": "https://github.com/beta-etm/GIT-TEST.git#readme"
+}
